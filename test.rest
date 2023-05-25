@@ -1,0 +1,5 @@
+GET https://github.com/graphql-compose/graphql-compose-examples/blob/master/examples/northwind/data/json/categories.csv
+
+headers = {
+    Accept: 'application/vnd.github.v4+raw',
+}
